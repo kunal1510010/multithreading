@@ -1,7 +1,7 @@
 # multithreading
 
 
-#sem_init
+# sem_init
 
 The sem_init() function is used to initialise the unnamed semaphore referred to by sem. The value of the initialised semaphore is value. Following a successful call to sem_init(), the semaphore may be used in subsequent calls to sem_wait(), sem_trywait(), sem_post(), and sem_destroy(). This semaphore remains usable until the semaphore is destroyed. 
 
